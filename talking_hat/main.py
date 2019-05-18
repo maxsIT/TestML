@@ -1,4 +1,4 @@
-from model_training import train_classifiers
+from notebooks.model_training import train_classifiers
 from data_loaders import load_processed_data
 import warnings
 warnings.filterwarnings('ignore')
